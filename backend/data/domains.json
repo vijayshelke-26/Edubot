@@ -1,0 +1,322 @@
+[
+  {
+    "text": "What is a variable in programming?",
+    "domain": "programming"
+  },
+  {
+    "text": "How do for loops work?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain while loop in Python",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a function in coding?",
+    "domain": "programming"
+  },
+  {
+    "text": "How do I define a class in Python?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is object oriented programming?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain inheritance in OOP",
+    "domain": "programming"
+  },
+  {
+    "text": "What is polymorphism?",
+    "domain": "programming"
+  },
+  {
+    "text": "How does recursion work?",
+    "domain": "programming"
+  },
+  {
+    "text": "What are data types in programming?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain strings in Python",
+    "domain": "programming"
+  },
+  {
+    "text": "How do lists work in Python?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a dictionary in Python?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to handle exceptions in Python?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a tuple?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain array vs linked list",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a stack data structure?",
+    "domain": "programming"
+  },
+  {
+    "text": "How does a queue work?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is Big O notation?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain binary search algorithm",
+    "domain": "programming"
+  },
+  {
+    "text": "What is sorting in programming?",
+    "domain": "programming"
+  },
+  {
+    "text": "Difference between compiler and interpreter",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a pointer in C?",
+    "domain": "programming"
+  },
+  {
+    "text": "How do I use if-else statements?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is encapsulation in programming?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain abstraction in OOP",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a constructor?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to read a file in Python?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a module in Python?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain list comprehension",
+    "domain": "programming"
+  },
+  {
+    "text": "What are lambda functions?",
+    "domain": "programming"
+  },
+  {
+    "text": "How do generators work in Python?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is scope in programming?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain global vs local variables",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a boolean data type?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to concatenate strings?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is type casting?",
+    "domain": "programming"
+  },
+  {
+    "text": "How do switch case statements work?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a hash table?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain tree data structure",
+    "domain": "programming"
+  },
+  {
+    "text": "What is dynamic programming?",
+    "domain": "programming"
+  },
+  {
+    "text": "How does bubble sort work?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is merge sort?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain quick sort algorithm",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a graph in computer science?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to implement a linked list?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is method overloading?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain method overriding",
+    "domain": "programming"
+  },
+  {
+    "text": "What is an interface in Java?",
+    "domain": "programming"
+  },
+  {
+    "text": "How does garbage collection work?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is version control?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain pass by value vs pass by reference",
+    "domain": "programming"
+  },
+  {
+    "text": "What is an API?",
+    "domain": "programming"
+  },
+  {
+    "text": "How do decorators work in Python?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is multithreading?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain the concept of iteration",
+    "domain": "programming"
+  },
+  {
+    "text": "What is conditional logic?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to debug code?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is an IDE?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain break and continue statements",
+    "domain": "programming"
+  },
+  {
+    "text": "What is an algorithm?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to write pseudocode?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is operator overloading?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain the DRY principle",
+    "domain": "programming"
+  },
+  {
+    "text": "What is software testing?",
+    "domain": "programming"
+  },
+  {
+    "text": "How does memory management work?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a syntax error?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain runtime errors",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a logical error in programming?",
+    "domain": "programming"
+  },
+  {
+    "text": "How do nested loops work?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is string slicing?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain the map function",
+    "domain": "programming"
+  },
+  {
+    "text": "What is filter in Python?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to use regular expressions?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is an abstract class?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain database normalization",
+    "domain": "programming"
+  },
+  {
+    "text": "What is SQL?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to connect Python to a database?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is REST API?",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain MVC architecture",
+    "domain": "programming"
+  }
+]

@@ -1,0 +1,2094 @@
+[
+  {
+    "text": "alright thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "what is a binary tree?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "have a good day",
+    "intent": "farewell"
+  },
+  {
+    "text": "what is an IDE?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "where do I stand?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "performance summary",
+    "intent": "check_progress"
+  },
+  {
+    "text": "help please",
+    "intent": "help"
+  },
+  {
+    "text": "explain break and continue statements",
+    "intent": "ask_question"
+  },
+  {
+    "text": "logging off",
+    "intent": "farewell"
+  },
+  {
+    "text": "explain array vs linked list",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is a constructor in programming?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is filter in Python?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is method overloading?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "I am leaving",
+    "intent": "farewell"
+  },
+  {
+    "text": "thank you that was very clear",
+    "intent": "thanks"
+  },
+  {
+    "text": "hello how are you",
+    "intent": "greeting"
+  },
+  {
+    "text": "howdy",
+    "intent": "greeting"
+  },
+  {
+    "text": "what is a variable in programming?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "explain the DRY principle",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is an interface in Java?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "explain the singleton pattern",
+    "intent": "ask_question"
+  },
+  {
+    "text": "start a quiz",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "what are your capabilities?",
+    "intent": "help"
+  },
+  {
+    "text": "wassup",
+    "intent": "greeting"
+  },
+  {
+    "text": "how to navigate this app?",
+    "intent": "help"
+  },
+  {
+    "text": "what can this bot do?",
+    "intent": "help"
+  },
+  {
+    "text": "hello can you teach me",
+    "intent": "ask_question"
+  },
+  {
+    "text": "This is Adam",
+    "intent": "greeting"
+  },
+  {
+    "text": "hello chatbot",
+    "intent": "greeting"
+  },
+  {
+    "text": "how do I use this in Python?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "I want to test myself",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "explain list comprehension",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is deadlock?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how are my results?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "see ya",
+    "intent": "farewell"
+  },
+  {
+    "text": "how does bubble sort work?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "Good thanks! I am Adam",
+    "intent": "greeting"
+  },
+  {
+    "text": "evening",
+    "intent": "greeting"
+  },
+  {
+    "text": "hey bot",
+    "intent": "greeting"
+  },
+  {
+    "text": "what are you?",
+    "intent": "help"
+  },
+  {
+    "text": "until next time",
+    "intent": "farewell"
+  },
+  {
+    "text": "track my progress",
+    "intent": "check_progress"
+  },
+  {
+    "text": "I want to practice programming",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "explain quick sort algorithm",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how to concatenate strings?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is REST API?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is my accuracy?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "ending session",
+    "intent": "farewell"
+  },
+  {
+    "text": "how to use this chatbot?",
+    "intent": "help"
+  },
+  {
+    "text": "what is version control?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "ok I am going",
+    "intent": "farewell"
+  },
+  {
+    "text": "how to read a file in Python?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what can you do for me?",
+    "intent": "help"
+  },
+  {
+    "text": "cheers",
+    "intent": "thanks"
+  },
+  {
+    "text": "my quiz results",
+    "intent": "check_progress"
+  },
+  {
+    "text": "what is a socket?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "quiz me on programming",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "progress report",
+    "intent": "check_progress"
+  },
+  {
+    "text": "bye",
+    "intent": "farewell"
+  },
+  {
+    "text": "catch you later",
+    "intent": "farewell"
+  },
+  {
+    "text": "show me how I am doing",
+    "intent": "check_progress"
+  },
+  {
+    "text": "how do try catch blocks work?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "programming quiz please",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "show me my stats",
+    "intent": "check_progress"
+  },
+  {
+    "text": "what is a bug?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is string slicing?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "am I doing well?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "what's my progress in programming?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "good afternoon",
+    "intent": "greeting"
+  },
+  {
+    "text": "how do generators work in Python?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "How are you?",
+    "intent": "greeting"
+  },
+  {
+    "text": "give me quiz questions",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "test my knowledge",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "display my progress report",
+    "intent": "check_progress"
+  },
+  {
+    "text": "thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "I don't understand this concept",
+    "intent": "ask_question"
+  },
+  {
+    "text": "I need help with Python coding",
+    "intent": "ask_question"
+  },
+  {
+    "text": "show me the menu",
+    "intent": "help"
+  },
+  {
+    "text": "stop",
+    "intent": "farewell"
+  },
+  {
+    "text": "I want MCQ questions on programming",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "what are the advantages of this approach?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "Great thanks! I am Bella",
+    "intent": "greeting"
+  },
+  {
+    "text": "really helpful thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "what is my current score?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "It is Adam",
+    "intent": "greeting"
+  },
+  {
+    "text": "farewell",
+    "intent": "farewell"
+  },
+  {
+    "text": "hi can you help me",
+    "intent": "greeting"
+  },
+  {
+    "text": "hi bot",
+    "intent": "greeting"
+  },
+  {
+    "text": "what subjects can you teach?",
+    "intent": "help"
+  },
+  {
+    "text": "how does big o notation work?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "I need assistance",
+    "intent": "help"
+  },
+  {
+    "text": "thank you so much",
+    "intent": "thanks"
+  },
+  {
+    "text": "I learned something new thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "how to get started?",
+    "intent": "help"
+  },
+  {
+    "text": "when should I use this?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "thanks bot",
+    "intent": "thanks"
+  },
+  {
+    "text": "where do I begin?",
+    "intent": "help"
+  },
+  {
+    "text": "nice to meet you",
+    "intent": "greeting"
+  },
+  {
+    "text": "ok bye",
+    "intent": "farewell"
+  },
+  {
+    "text": "what questions can I ask?",
+    "intent": "help"
+  },
+  {
+    "text": "take a quiz on data structures",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "what is the factory pattern?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "Hola how are you?",
+    "intent": "greeting"
+  },
+  {
+    "text": "close session",
+    "intent": "farewell"
+  },
+  {
+    "text": "what is a virtual function?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is SQL?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "practice test",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "exam preparation quiz",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "quiz me",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "how many questions have I answered?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "I want questions",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "what all can you teach me?",
+    "intent": "help"
+  },
+  {
+    "text": "menu",
+    "intent": "help"
+  },
+  {
+    "text": "done for today",
+    "intent": "farewell"
+  },
+  {
+    "text": "OK thank you",
+    "intent": "thanks"
+  },
+  {
+    "text": "what is a tuple?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what can I ask you?",
+    "intent": "help"
+  },
+  {
+    "text": "Great thanks! This is Bella",
+    "intent": "greeting"
+  },
+  {
+    "text": "quiz performance",
+    "intent": "check_progress"
+  },
+  {
+    "text": "hi I am back",
+    "intent": "greeting"
+  },
+  {
+    "text": "test my programming skills",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "time to go",
+    "intent": "farewell"
+  },
+  {
+    "text": "I have a question about arrays",
+    "intent": "ask_question"
+  },
+  {
+    "text": "you explained it well",
+    "intent": "thanks"
+  },
+  {
+    "text": "what is merge sort?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "code quiz",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "what is breadth first search?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "signing off",
+    "intent": "farewell"
+  },
+  {
+    "text": "explain pass by value vs pass by reference",
+    "intent": "ask_question"
+  },
+  {
+    "text": "cya",
+    "intent": "farewell"
+  },
+  {
+    "text": "what is a process?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "explain tree data structure",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is a dictionary in Python?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what topics do you cover?",
+    "intent": "help"
+  },
+  {
+    "text": "explain runtime errors",
+    "intent": "ask_question"
+  },
+  {
+    "text": "My user is Adam",
+    "intent": "greeting"
+  },
+  {
+    "text": "explain space complexity",
+    "intent": "ask_question"
+  },
+  {
+    "text": "hey",
+    "intent": "greeting"
+  },
+  {
+    "text": "hola",
+    "intent": "greeting"
+  },
+  {
+    "text": "what is a boolean data type?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "quiz about Python",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "I will be back",
+    "intent": "farewell"
+  },
+  {
+    "text": "I'm confused how to start",
+    "intent": "help"
+  },
+  {
+    "text": "how good am I at programming?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "brilliant explanation",
+    "intent": "thanks"
+  },
+  {
+    "text": "check my stats",
+    "intent": "check_progress"
+  },
+  {
+    "text": "what is a graph in computer science?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is a class?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "later",
+    "intent": "farewell"
+  },
+  {
+    "text": "how does memory management work?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how does a queue work?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is scope in programming?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "got it thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "what is a callback?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how should I use this?",
+    "intent": "help"
+  },
+  {
+    "text": "what is available?",
+    "intent": "help"
+  },
+  {
+    "text": "what is an API?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is a logical error in programming?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "I appreciate your help",
+    "intent": "thanks"
+  },
+  {
+    "text": "explain global vs local variables",
+    "intent": "ask_question"
+  },
+  {
+    "text": "quiz about algorithms",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "show me your capabilities",
+    "intent": "help"
+  },
+  {
+    "text": "explain static methods in Python",
+    "intent": "ask_question"
+  },
+  {
+    "text": "evaluate my understanding",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "what is this bot for?",
+    "intent": "help"
+  },
+  {
+    "text": "yo",
+    "intent": "greeting"
+  },
+  {
+    "text": "what is a method?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "hi there bot",
+    "intent": "greeting"
+  },
+  {
+    "text": "how to handle exceptions in Python?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is numpy?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "show my ranking",
+    "intent": "check_progress"
+  },
+  {
+    "text": "Hi",
+    "intent": "greeting"
+  },
+  {
+    "text": "now I understand thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "view my achievements",
+    "intent": "check_progress"
+  },
+  {
+    "text": "how do switch case statements work?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how does a heap data structure work?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is django?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "perfect thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "can you elaborate on that?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "explain depth first search",
+    "intent": "ask_question"
+  },
+  {
+    "text": "please help",
+    "intent": "help"
+  },
+  {
+    "text": "hi I want to learn",
+    "intent": "ask_question"
+  },
+  {
+    "text": "I'm done",
+    "intent": "farewell"
+  },
+  {
+    "text": "have a nice day",
+    "intent": "farewell"
+  },
+  {
+    "text": "I'd like to practice with questions",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "hey I am here to learn",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how do I use this?",
+    "intent": "help"
+  },
+  {
+    "text": "what is a compiler?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how many quizzes have I taken?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "give me exercises",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "explain database normalization",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is a syntax error?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "give me a test",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "help",
+    "intent": "help"
+  },
+  {
+    "text": "am I doing good?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "Hi how are you?",
+    "intent": "greeting"
+  },
+  {
+    "text": "end chat",
+    "intent": "farewell"
+  },
+  {
+    "text": "total score",
+    "intent": "check_progress"
+  },
+  {
+    "text": "quit",
+    "intent": "farewell"
+  },
+  {
+    "text": "what are my scores?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "what programming topics can you help with?",
+    "intent": "help"
+  },
+  {
+    "text": "list your features",
+    "intent": "help"
+  },
+  {
+    "text": "thank you",
+    "intent": "thanks"
+  },
+  {
+    "text": "Good thanks! This is Adam",
+    "intent": "greeting"
+  },
+  {
+    "text": "I appreciate it",
+    "intent": "thanks"
+  },
+  {
+    "text": "challenge me",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "hi again",
+    "intent": "greeting"
+  },
+  {
+    "text": "I'll come back later",
+    "intent": "farewell"
+  },
+  {
+    "text": "can you explain with code?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how is my learning going?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "am I improving?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "what are you capable of?",
+    "intent": "help"
+  },
+  {
+    "text": "what is a package?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "Thank you, goodbye",
+    "intent": "farewell"
+  },
+  {
+    "text": "practice questions please",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "Thanks for the help, goodbye",
+    "intent": "farewell"
+  },
+  {
+    "text": "test me",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "what is object oriented programming?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "namaste",
+    "intent": "greeting"
+  },
+  {
+    "text": "Hya",
+    "intent": "greeting"
+  },
+  {
+    "text": "explain standard deviation",
+    "intent": "ask_question"
+  },
+  {
+    "text": "great help thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "cool thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "let me take a test",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "how well am I doing?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "That's helpful",
+    "intent": "thanks"
+  },
+  {
+    "text": "can you assist me?",
+    "intent": "help"
+  },
+  {
+    "text": "what is an iterator?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is a loop?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what can I do here?",
+    "intent": "help"
+  },
+  {
+    "text": "hi friend",
+    "intent": "greeting"
+  },
+  {
+    "text": "what is Git?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "that cleared my doubt",
+    "intent": "thanks"
+  },
+  {
+    "text": "enough for now",
+    "intent": "farewell"
+  },
+  {
+    "text": "guide me",
+    "intent": "help"
+  },
+  {
+    "text": "I want to understand recursion",
+    "intent": "ask_question"
+  },
+  {
+    "text": "Hope you are doing well?",
+    "intent": "greeting"
+  },
+  {
+    "text": "good to see you",
+    "intent": "greeting"
+  },
+  {
+    "text": "how many did I get right?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "explain the concept of iteration",
+    "intent": "ask_question"
+  },
+  {
+    "text": "Great thanks! My user is Bella",
+    "intent": "greeting"
+  },
+  {
+    "text": "It is Bella",
+    "intent": "greeting"
+  },
+  {
+    "text": "what should I ask?",
+    "intent": "help"
+  },
+  {
+    "text": "explain how GitHub works",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how am I doing so far?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "what is the quadratic formula?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "I really appreciate this",
+    "intent": "thanks"
+  },
+  {
+    "text": "adios",
+    "intent": "farewell"
+  },
+  {
+    "text": "what is an exception?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is conditional logic?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "I want to answer some questions",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "great job explaining",
+    "intent": "thanks"
+  },
+  {
+    "text": "hello chatbot how are you",
+    "intent": "greeting"
+  },
+  {
+    "text": "how does recursion work?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is a class method?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "ready for a quiz",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "explain while loop in Python",
+    "intent": "ask_question"
+  },
+  {
+    "text": "start test",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "I have to go now",
+    "intent": "farewell"
+  },
+  {
+    "text": "what is a linked list?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "you are a great teacher",
+    "intent": "thanks"
+  },
+  {
+    "text": "who are you?",
+    "intent": "help"
+  },
+  {
+    "text": "tell me more about that",
+    "intent": "ask_question"
+  },
+  {
+    "text": "test me on OOP concepts",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "how to debug code?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what do you do?",
+    "intent": "help"
+  },
+  {
+    "text": "hello I am a student",
+    "intent": "greeting"
+  },
+  {
+    "text": "my scores please",
+    "intent": "check_progress"
+  },
+  {
+    "text": "hi how are you doing",
+    "intent": "greeting"
+  },
+  {
+    "text": "what are the commands?",
+    "intent": "help"
+  },
+  {
+    "text": "what is a protocol?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "help me",
+    "intent": "help"
+  },
+  {
+    "text": "what is middleware?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "greetings",
+    "intent": "greeting"
+  },
+  {
+    "text": "how to write pseudocode?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "nice explanation",
+    "intent": "thanks"
+  },
+  {
+    "text": "what are sorting algorithms?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "this was very useful",
+    "intent": "thanks"
+  },
+  {
+    "text": "good night",
+    "intent": "farewell"
+  },
+  {
+    "text": "quiz please",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "give me programming questions",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "can I have a quiz on programming?",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "assist me please",
+    "intent": "help"
+  },
+  {
+    "text": "helpful response",
+    "intent": "thanks"
+  },
+  {
+    "text": "explain method overriding",
+    "intent": "ask_question"
+  },
+  {
+    "text": "can you teach me about functions?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "learning analytics",
+    "intent": "check_progress"
+  },
+  {
+    "text": "I need help",
+    "intent": "help"
+  },
+  {
+    "text": "show options",
+    "intent": "help"
+  },
+  {
+    "text": "oh I see thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "amazing explanation thank you",
+    "intent": "thanks"
+  },
+  {
+    "text": "I am done studying",
+    "intent": "farewell"
+  },
+  {
+    "text": "show my learning progress",
+    "intent": "check_progress"
+  },
+  {
+    "text": "begin quiz",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "see you soon",
+    "intent": "farewell"
+  },
+  {
+    "text": "peace out",
+    "intent": "farewell"
+  },
+  {
+    "text": "how am I doing?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "am I getting better?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "quiz on coding",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "hello again",
+    "intent": "greeting"
+  },
+  {
+    "text": "how am I performing?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "instructions please",
+    "intent": "help"
+  },
+  {
+    "text": "how do for loops work?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "hey buddy",
+    "intent": "greeting"
+  },
+  {
+    "text": "explain it in more detail",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how to implement a linked list?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "that answered my question",
+    "intent": "thanks"
+  },
+  {
+    "text": "wonderful explanation",
+    "intent": "thanks"
+  },
+  {
+    "text": "what's up",
+    "intent": "greeting"
+  },
+  {
+    "text": "can I take a quiz now?",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "how do decorators work in Python?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "my performance report",
+    "intent": "check_progress"
+  },
+  {
+    "text": "hello",
+    "intent": "greeting"
+  },
+  {
+    "text": "I want to practice OOP questions",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "how have I been performing?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "bye chatbot",
+    "intent": "farewell"
+  },
+  {
+    "text": "explain MVC architecture",
+    "intent": "ask_question"
+  },
+  {
+    "text": "perfect explanation",
+    "intent": "thanks"
+  },
+  {
+    "text": "This is Bella",
+    "intent": "greeting"
+  },
+  {
+    "text": "I am new here what should I do?",
+    "intent": "help"
+  },
+  {
+    "text": "thanks a lot",
+    "intent": "thanks"
+  },
+  {
+    "text": "what is dynamic programming?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "did I improve since last time?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "take care",
+    "intent": "farewell"
+  },
+  {
+    "text": "prepare a test for me",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "so long",
+    "intent": "farewell"
+  },
+  {
+    "text": "lets do a quiz",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "My user is Bella",
+    "intent": "greeting"
+  },
+  {
+    "text": "hi there",
+    "intent": "greeting"
+  },
+  {
+    "text": "tell me about yourself",
+    "intent": "help"
+  },
+  {
+    "text": "thanks bye",
+    "intent": "farewell"
+  },
+  {
+    "text": "I want to take a quiz",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "I am stuck",
+    "intent": "help"
+  },
+  {
+    "text": "Thanks goodbye",
+    "intent": "farewell"
+  },
+  {
+    "text": "what is a library?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "thanks for explaining",
+    "intent": "thanks"
+  },
+  {
+    "text": "give me instructions",
+    "intent": "help"
+  },
+  {
+    "text": "what is possible here?",
+    "intent": "help"
+  },
+  {
+    "text": "bye bye",
+    "intent": "farewell"
+  },
+  {
+    "text": "good evening",
+    "intent": "greeting"
+  },
+  {
+    "text": "my dashboard",
+    "intent": "check_progress"
+  },
+  {
+    "text": "explain binary search algorithm",
+    "intent": "ask_question"
+  },
+  {
+    "text": "can you give me a coding test?",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "mock test please",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "what kind of help do you offer?",
+    "intent": "help"
+  },
+  {
+    "text": "what does that mean in programming?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "why is this important in programming?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "hey what's going on",
+    "intent": "greeting"
+  },
+  {
+    "text": "check my quiz scores",
+    "intent": "check_progress"
+  },
+  {
+    "text": "what is JSON?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "good answer thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "what is a closure?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "need help",
+    "intent": "help"
+  },
+  {
+    "text": "alright bye",
+    "intent": "farewell"
+  },
+  {
+    "text": "that's all for now",
+    "intent": "farewell"
+  },
+  {
+    "text": "hey hi",
+    "intent": "greeting"
+  },
+  {
+    "text": "whats up bot",
+    "intent": "greeting"
+  },
+  {
+    "text": "give me a challenge",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "can I practice?",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "I need to leave",
+    "intent": "farewell"
+  },
+  {
+    "text": "what things can you do?",
+    "intent": "help"
+  },
+  {
+    "text": "what is pandas?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is the difference between a list and a tuple?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "am I beginner or advanced?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "how does the observer pattern work?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is my skill level?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "what is sorting in programming?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "show my scores",
+    "intent": "check_progress"
+  },
+  {
+    "text": "I am Bella",
+    "intent": "greeting"
+  },
+  {
+    "text": "how do I define a class in Python?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "OK",
+    "intent": "thanks"
+  },
+  {
+    "text": "what is a thread?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "see you tomorrow",
+    "intent": "farewell"
+  },
+  {
+    "text": "give me some MCQs",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "awesome thank you",
+    "intent": "thanks"
+  },
+  {
+    "text": "teach me about OOP",
+    "intent": "ask_question"
+  },
+  {
+    "text": "examine me",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "understood thank you",
+    "intent": "thanks"
+  },
+  {
+    "text": "what are my options?",
+    "intent": "help"
+  },
+  {
+    "text": "what features do you have?",
+    "intent": "help"
+  },
+  {
+    "text": "thanks for the help",
+    "intent": "thanks"
+  },
+  {
+    "text": "show my quiz history",
+    "intent": "check_progress"
+  },
+  {
+    "text": "what does polymorphism mean?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "hi I am new here",
+    "intent": "greeting"
+  },
+  {
+    "text": "how do I use if-else statements?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how is a set different from a list?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how does garbage collection work?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "Hello hope you are doing well?",
+    "intent": "greeting"
+  },
+  {
+    "text": "what is encapsulation?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "hello friend",
+    "intent": "greeting"
+  },
+  {
+    "text": "what is multithreading?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "super helpful thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "Hya there",
+    "intent": "greeting"
+  },
+  {
+    "text": "show my results",
+    "intent": "check_progress"
+  },
+  {
+    "text": "that was exactly what I needed",
+    "intent": "thanks"
+  },
+  {
+    "text": "Thanks good bye",
+    "intent": "farewell"
+  },
+  {
+    "text": "explain abstraction in OOP",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is your purpose?",
+    "intent": "help"
+  },
+  {
+    "text": "assessment time",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "I don't know what to do",
+    "intent": "help"
+  },
+  {
+    "text": "Thanks, bye",
+    "intent": "farewell"
+  },
+  {
+    "text": "what is pip?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "show my progress",
+    "intent": "check_progress"
+  },
+  {
+    "text": "I will continue later",
+    "intent": "farewell"
+  },
+  {
+    "text": "help me get started",
+    "intent": "help"
+  },
+  {
+    "text": "overall score",
+    "intent": "check_progress"
+  },
+  {
+    "text": "hi I need to study",
+    "intent": "greeting"
+  },
+  {
+    "text": "much appreciated",
+    "intent": "thanks"
+  },
+  {
+    "text": "very helpful",
+    "intent": "thanks"
+  },
+  {
+    "text": "I am Adam",
+    "intent": "greeting"
+  },
+  {
+    "text": "what is a pointer in C?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "makes sense thank you",
+    "intent": "thanks"
+  },
+  {
+    "text": "can you explain inheritance?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how do nested loops work?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how to connect Python to a database?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "that is all I needed",
+    "intent": "farewell"
+  },
+  {
+    "text": "what is an abstract class?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "that was helpful",
+    "intent": "thanks"
+  },
+  {
+    "text": "can you quiz me?",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "what is a framework?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is an object?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "goodbye",
+    "intent": "farewell"
+  },
+  {
+    "text": "Hello how are you?",
+    "intent": "greeting"
+  },
+  {
+    "text": "what all can you do?",
+    "intent": "help"
+  },
+  {
+    "text": "what is type casting?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how do you work?",
+    "intent": "help"
+  },
+  {
+    "text": "what is a stack data structure?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "thanks that helped",
+    "intent": "thanks"
+  },
+  {
+    "text": "hi hello",
+    "intent": "greeting"
+  },
+  {
+    "text": "hey I want to learn programming",
+    "intent": "ask_question"
+  },
+  {
+    "text": "ah I get it now thank you",
+    "intent": "thanks"
+  },
+  {
+    "text": "exit",
+    "intent": "farewell"
+  },
+  {
+    "text": "show statistics",
+    "intent": "check_progress"
+  },
+  {
+    "text": "how to use regular expressions?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "progress update",
+    "intent": "check_progress"
+  },
+  {
+    "text": "show my grade",
+    "intent": "check_progress"
+  },
+  {
+    "text": "how did I do?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "what is a hash table?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what level am I at?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "morning",
+    "intent": "greeting"
+  },
+  {
+    "text": "give me an example of that",
+    "intent": "ask_question"
+  },
+  {
+    "text": "talk to you later",
+    "intent": "farewell"
+  },
+  {
+    "text": "what is my level?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "test me on this topic",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "what can you do?",
+    "intent": "help"
+  },
+  {
+    "text": "hello there",
+    "intent": "greeting"
+  },
+  {
+    "text": "what services do you provide?",
+    "intent": "help"
+  },
+  {
+    "text": "difference between compiler and interpreter",
+    "intent": "ask_question"
+  },
+  {
+    "text": "have I passed?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "what is software testing?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "assist me",
+    "intent": "help"
+  },
+  {
+    "text": "explain the map function",
+    "intent": "ask_question"
+  },
+  {
+    "text": "greetings bot",
+    "intent": "greeting"
+  },
+  {
+    "text": "how do I implement this?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "How are you doing?",
+    "intent": "greeting"
+  },
+  {
+    "text": "Great thanks! It is Bella",
+    "intent": "greeting"
+  },
+  {
+    "text": "what is an algorithm?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how can you help me?",
+    "intent": "help"
+  },
+  {
+    "text": "I don't understand derivatives",
+    "intent": "ask_question"
+  },
+  {
+    "text": "ok see you",
+    "intent": "farewell"
+  },
+  {
+    "text": "what is a semaphore?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is operator overloading?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "Good thanks! My user is Adam",
+    "intent": "greeting"
+  },
+  {
+    "text": "ok thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "goodbye chatbot",
+    "intent": "farewell"
+  },
+  {
+    "text": "explain your features",
+    "intent": "help"
+  },
+  {
+    "text": "tell me what you can do",
+    "intent": "help"
+  },
+  {
+    "text": "good morning",
+    "intent": "greeting"
+  },
+  {
+    "text": "what is flask?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "can you guide me?",
+    "intent": "help"
+  },
+  {
+    "text": "what are lambda functions?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how far have I progressed?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "give me some practice problems",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "explain the periodic table",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is time complexity?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "Good thanks! It is Adam",
+    "intent": "greeting"
+  },
+  {
+    "text": "noted thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "that makes sense now thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "thank you chatbot",
+    "intent": "thanks"
+  },
+  {
+    "text": "explain how loops work",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how is my performance?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "hello I need help studying",
+    "intent": "greeting"
+  },
+  {
+    "text": "what percentage have I scored?",
+    "intent": "check_progress"
+  },
+  {
+    "text": "I want to check my knowledge",
+    "intent": "request_quiz"
+  },
+  {
+    "text": "what is the Pythagorean theorem?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is the difference between mitosis and meiosis?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "hi there chatbot",
+    "intent": "greeting"
+  },
+  {
+    "text": "good day",
+    "intent": "greeting"
+  },
+  {
+    "text": "sup",
+    "intent": "greeting"
+  },
+  {
+    "text": "what is a design pattern?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "my learning status",
+    "intent": "check_progress"
+  },
+  {
+    "text": "hey again",
+    "intent": "greeting"
+  },
+  {
+    "text": "display my performance",
+    "intent": "check_progress"
+  },
+  {
+    "text": "what is a module?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "Thank you, bye",
+    "intent": "farewell"
+  },
+  {
+    "text": "excellent thanks",
+    "intent": "thanks"
+  },
+  {
+    "text": "see you later",
+    "intent": "farewell"
+  },
+  {
+    "text": "show me what you can do",
+    "intent": "help"
+  },
+  {
+    "text": "bye for now",
+    "intent": "farewell"
+  },
+  {
+    "text": "what are data structures?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is a function in coding?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "what is a module in Python?",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how does this chatbot work?",
+    "intent": "help"
+  },
+  {
+    "text": "hey there how are you",
+    "intent": "greeting"
+  },
+  {
+    "text": "gotta go",
+    "intent": "farewell"
+  },
+  {
+    "text": "great explanation",
+    "intent": "thanks"
+  },
+  {
+    "text": "i want to learn python programming",
+    "intent": "ask_question"
+  },
+  {
+    "text": "i want to learn python",
+    "intent": "ask_question"
+  },
+  {
+    "text": "create a tutorial for me",
+    "intent": "ask_question"
+  },
+  {
+    "text": "create a python tutorial for me",
+    "intent": "ask_question"
+  },
+  {
+    "text": "make a python tutorial",
+    "intent": "ask_question"
+  },
+  {
+    "text": "give me a python tutorial",
+    "intent": "ask_question"
+  },
+  {
+    "text": "i want a python tutorial",
+    "intent": "ask_question"
+  },
+  {
+    "text": "build me a python tutorial i can follow daily",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how do i learn python",
+    "intent": "ask_question"
+  },
+  {
+    "text": "how can i start learning python",
+    "intent": "ask_question"
+  },
+  {
+    "text": "where do i start with python",
+    "intent": "ask_question"
+  },
+  {
+    "text": "guide me through python",
+    "intent": "ask_question"
+  },
+  {
+    "text": "teach me python from scratch",
+    "intent": "ask_question"
+  },
+  {
+    "text": "i want to learn programming",
+    "intent": "ask_question"
+  },
+  {
+    "text": "help me learn python step by step",
+    "intent": "ask_question"
+  },
+  {
+    "text": "tutorial for python",
+    "intent": "ask_question"
+  },
+  {
+    "text": "python tutorial please",
+    "intent": "ask_question"
+  }
+]

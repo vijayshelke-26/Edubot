@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "how to connect an android application to MySQL database?",
+    "domain": "programming"
+  },
+  {
+    "text": "Piping not working with echo command",
+    "domain": "programming"
+  },
+  {
+    "text": "Undefined index: category_icon_code in line 257",
+    "domain": "programming"
+  },
+  {
+    "text": "How can I pull down a commit from Github (Enterprise) that I don't have locally?",
+    "domain": "programming"
+  },
+  {
+    "text": "Encryption in URL",
+    "domain": "programming"
+  },
+  {
+    "text": "IE-9 giving fakepath when using input type file",
+    "domain": "programming"
+  },
+  {
+    "text": "How can this be done in perl",
+    "domain": "programming"
+  },
+  {
+    "text": "Cookies vs. Web storage",
+    "domain": "programming"
+  },
+  {
+    "text": "C - Binary to Decimal segmentation error",
+    "domain": "programming"
+  },
+  {
+    "text": "Find pattern in files with java 8",
+    "domain": "programming"
+  },
+  {
+    "text": "I am implementing a Minimum Spanning Forrest algorihm in java. But stuck on how to write a loop",
+    "domain": "programming"
+  },
+  {
+    "text": "asyncio queue consumer coroutine",
+    "domain": "programming"
+  },
+  {
+    "text": "sql server login failed for user client computer",
+    "domain": "programming"
+  },
+  {
+    "text": "Slick Carousel Easing Examples",
+    "domain": "programming"
+  },
+  {
+    "text": "What does (void (^)(BOOL supported)) mean?",
+    "domain": "programming"
+  },
+  {
+    "text": "Seaborn Heatmap Colorbar Label as Percentage",
+    "domain": "programming"
+  },
+  {
+    "text": "C P.L., using goto statement for temperature conversion. Need to learn :)",
+    "domain": "programming"
+  },
+  {
+    "text": "Please help me write the outcome of is statement to a python file",
+    "domain": "programming"
+  },
+  {
+    "text": "How do I properly insert multiple rows into PG with node-postgres?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to include untyped node modules with Typescript 1.8?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to assign a variable in a Swift case statement",
+    "domain": "programming"
+  },
+  {
+    "text": "Sass and Compass",
+    "domain": "programming"
+  },
+  {
+    "text": "android logcat logs chatty module line expire message",
+    "domain": "programming"
+  },
+  {
+    "text": "Free() bifore return 0;",
+    "domain": "programming"
+  },
+  {
+    "text": "Substituting parameters in log message and add a Throwable in Log4j 2",
+    "domain": "programming"
+  },
+  {
+    "text": "What does ArrayIndexoutofBoundsException mean here?",
+    "domain": "programming"
+  },
+  {
+    "text": "google play services 8.4.0 - classes.jar not found - android studio",
+    "domain": "programming"
+  },
+  {
+    "text": "how to get IP address and pc name of all pc's shared with me in a array using matlab script",
+    "domain": "programming"
+  },
+  {
+    "text": "converting daily stock data to weekly-based via pandas in Python",
+    "domain": "programming"
+  },
+  {
+    "text": "Java beginner - using the 'int counter' more than once within a button action",
+    "domain": "programming"
+  },
+  {
+    "text": "How do I structure authenticated queries with GraphQL?",
+    "domain": "programming"
+  },
+  {
+    "text": "is there a way to make a custom window? not box like but custom shape [python]",
+    "domain": "programming"
+  },
+  {
+    "text": "CNAME and TXT record for same subdomain not working",
+    "domain": "programming"
+  },
+  {
+    "text": "how to filter the existing month into next month",
+    "domain": "programming"
+  },
+  {
+    "text": "sql query to delete data from 2 tables",
+    "domain": "programming"
+  },
+  {
+    "text": "What happen to SketchFlow and what we should use instead?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to delete files older than 5 days using only regular expression",
+    "domain": "programming"
+  },
+  {
+    "text": "How do for loops work?",
+    "domain": "programming"
+  },
+  {
+    "text": "Is it possible to host telegram on my own server?",
+    "domain": "programming"
+  },
+  {
+    "text": "await await vs Unwrap()",
+    "domain": "programming"
+  },
+  {
+    "text": "How to show a dropdown type of menu on tap of button?",
+    "domain": "programming"
+  },
+  {
+    "text": "any one can help me with this sql syntax error? what should i use near the select statement",
+    "domain": "programming"
+  },
+  {
+    "text": "Java create enum from String",
+    "domain": "programming"
+  },
+  {
+    "text": "Why does AngularJS show me that a scope variable is undefined in directive when it is clearly defined?",
+    "domain": "programming"
+  },
+  {
+    "text": "Inhibit all warnings option in Xcode project doesn't hide warning when building",
+    "domain": "programming"
+  },
+  {
+    "text": "NPM warn message about deprecated package",
+    "domain": "programming"
+  },
+  {
+    "text": "npm install that requires node-gyp fails on Windows",
+    "domain": "programming"
+  },
+  {
+    "text": "How to stop js from running ?",
+    "domain": "programming"
+  },
+  {
+    "text": "assertNull J Unit, fails with null pointer (JAVA)",
+    "domain": "programming"
+  },
+  {
+    "text": "Start app as root with pm2",
+    "domain": "programming"
+  },
+  {
+    "text": "Can someone please thoroughly explain what a URI is?",
+    "domain": "programming"
+  },
+  {
+    "text": "Matlab convolution code in C",
+    "domain": "programming"
+  },
+  {
+    "text": "How to compare \"Any\" value types",
+    "domain": "programming"
+  },
+  {
+    "text": "Add an element on the last Jekyll loop of posts",
+    "domain": "programming"
+  },
+  {
+    "text": "How to submit login form in Rvest package w/o button argument",
+    "domain": "programming"
+  },
+  {
+    "text": "Binary file output for fixed fixed length string vb.net",
+    "domain": "programming"
+  },
+  {
+    "text": "C: Why does semi-colon after a macro cause illegal else compile error",
+    "domain": "programming"
+  },
+  {
+    "text": "How to get an array values in the dropdown in perl cgi html template",
+    "domain": "programming"
+  },
+  {
+    "text": "Can i fetch the data from SQL database table without using any Query...????? in vb or C#",
+    "domain": "programming"
+  },
+  {
+    "text": "MYSQL HELP PLEASE CANNOT INPUT ENTRY BECAUSE OF FOREIGN KEY?",
+    "domain": "programming"
+  },
+  {
+    "text": "Dockerfile ONBUILD instruction",
+    "domain": "programming"
+  },
+  {
+    "text": "Equivalent urllib.parse.quote() in python 2.7",
+    "domain": "programming"
+  },
+  {
+    "text": "I have a query in java",
+    "domain": "programming"
+  },
+  {
+    "text": "undefined reference to SIGN in C using GCC",
+    "domain": "programming"
+  },
+  {
+    "text": "Creating CGI page, with div tags",
+    "domain": "programming"
+  },
+  {
+    "text": "Div odd and even",
+    "domain": "programming"
+  },
+  {
+    "text": "What logic determines the insert order of Entity Framework 6",
+    "domain": "programming"
+  },
+  {
+    "text": "Key keeps getting replaced in dictionary C++",
+    "domain": "programming"
+  },
+  {
+    "text": "Chrome Extension \"Refused to load the script because it violates the following Content Security Policy directive\"",
+    "domain": "programming"
+  },
+  {
+    "text": "Finding columns in dataframe with specific number of values in R",
+    "domain": "programming"
+  },
+  {
+    "text": "How can I use nested formulas in arrayfomula functions in google sheets?",
+    "domain": "programming"
+  },
+  {
+    "text": "Transpose in R grouping by row and column",
+    "domain": "programming"
+  },
+  {
+    "text": "Set ImageView from Real path",
+    "domain": "programming"
+  },
+  {
+    "text": "want to add multipules tables to a frame dynamicly",
+    "domain": "programming"
+  },
+  {
+    "text": "Trouble with *ngIf in Angular 2 (TypeScript)",
+    "domain": "programming"
+  },
+  {
+    "text": "output FILE ,is this a fault?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is the best way to call into Swift from C?",
+    "domain": "programming"
+  },
+  {
+    "text": "Replace in angularJS",
+    "domain": "programming"
+  },
+  {
+    "text": "Is it possible to continuing running JavaScript code after a redirect?",
+    "domain": "programming"
+  },
+  {
+    "text": "if..else..if..else code not working properly(coding in C)",
+    "domain": "programming"
+  },
+  {
+    "text": "Print type of variable in python3.5 on django 1.8",
+    "domain": "programming"
+  },
+  {
+    "text": "C# Proceed If File Doesn't Exist",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain inheritance in OOP",
+    "domain": "programming"
+  },
+  {
+    "text": "Find subnet mask from ip",
+    "domain": "programming"
+  },
+  {
+    "text": "How can I get sql results over 100 in apache zeppelin?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to get image from the page and store in variable via jquery?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to get text from a number in a select query",
+    "domain": "programming"
+  },
+  {
+    "text": "Cannot import an andriod code sample in Andriod Studio",
+    "domain": "programming"
+  },
+  {
+    "text": "Cant get ASP.NET MVC 6 Controller to return JSON",
+    "domain": "programming"
+  },
+  {
+    "text": "Refresh Today Widget every time opened",
+    "domain": "programming"
+  },
+  {
+    "text": "when i run this code it give error unexpected else please suggest mi how to write it",
+    "domain": "programming"
+  },
+  {
+    "text": "Token null Sign-in Google Account",
+    "domain": "programming"
+  },
+  {
+    "text": "how to get audio.duration value by a function",
+    "domain": "programming"
+  },
+  {
+    "text": "How to put a song in android?",
+    "domain": "programming"
+  },
+  {
+    "text": "Only Enable the last Remove Element Button of a ListBox",
+    "domain": "programming"
+  },
+  {
+    "text": "Who designed monokai color scheme?",
+    "domain": "programming"
+  },
+  {
+    "text": "as in excel, an formulae are used to refer to cells, i'd like to know how to replicate that in R",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a stack data structure?",
+    "domain": "programming"
+  },
+  {
+    "text": "Get selected form data using jQuery",
+    "domain": "programming"
+  },
+  {
+    "text": "java mongodb driver how do you catch exceptions?",
+    "domain": "programming"
+  },
+  {
+    "text": "Dynamicly Button in Android studio",
+    "domain": "programming"
+  },
+  {
+    "text": "Using HMAC SHA256 in Ruby",
+    "domain": "programming"
+  },
+  {
+    "text": "How to script Gradle in order to publish shadowjar into Artifactory",
+    "domain": "programming"
+  },
+  {
+    "text": "PHP - access values inside an object",
+    "domain": "programming"
+  },
+  {
+    "text": "Why This Query Not Work Properly",
+    "domain": "programming"
+  },
+  {
+    "text": "build script in package.json using webpack with --config flag as",
+    "domain": "programming"
+  },
+  {
+    "text": "When would you use Storyboard vs Nib/Xib vs Coding from scratch?",
+    "domain": "programming"
+  },
+  {
+    "text": "Django REST Framework : \"This field is required.\" with required=False and unique_together",
+    "domain": "programming"
+  },
+  {
+    "text": "If Else Not Work in Php Script",
+    "domain": "programming"
+  },
+  {
+    "text": "WordPress theme not use after uploading m'y website on server",
+    "domain": "programming"
+  },
+  {
+    "text": "Empty space under my main page footer - Wordpress",
+    "domain": "programming"
+  },
+  {
+    "text": "Python - How do I fix this speed varible writing back to file?",
+    "domain": "programming"
+  },
+  {
+    "text": "Why is a type registered twice when lifetime manager is specified?",
+    "domain": "programming"
+  },
+  {
+    "text": "Is there a way to create clusters in arcgis",
+    "domain": "programming"
+  },
+  {
+    "text": "What is the '1995-12-17T03:24:00' for of a datetime called?",
+    "domain": "programming"
+  },
+  {
+    "text": "FetchFailedException or MetadataFetchFailedException when processing big data set",
+    "domain": "programming"
+  },
+  {
+    "text": "Creating publication-quality geometric figures in Python",
+    "domain": "programming"
+  },
+  {
+    "text": "Changing Theme in Windows 10 UWP App Programmatically",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain quick sort algorithm",
+    "domain": "programming"
+  },
+  {
+    "text": "I am trying to insert value directly to double pointer matrix as follows",
+    "domain": "programming"
+  },
+  {
+    "text": "Swift - Import my swift class",
+    "domain": "programming"
+  },
+  {
+    "text": "Why are Java Optionals immutable?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to install cakephp3.1.6 on LAMP",
+    "domain": "programming"
+  },
+  {
+    "text": "run modeler stream inside spss statistics",
+    "domain": "programming"
+  },
+  {
+    "text": "Testing if an event has been triggered in Jasmine",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a DOMString really?",
+    "domain": "programming"
+  },
+  {
+    "text": "sql is the column value is null get column from another table",
+    "domain": "programming"
+  },
+  {
+    "text": "Hi Am using audio player",
+    "domain": "programming"
+  },
+  {
+    "text": "How do I define a class in Python?",
+    "domain": "programming"
+  },
+  {
+    "text": "php video upload doesn't work",
+    "domain": "programming"
+  },
+  {
+    "text": "Sending a positive octet of zero bits over a socket",
+    "domain": "programming"
+  },
+  {
+    "text": "How do I use if-else statements?",
+    "domain": "programming"
+  },
+  {
+    "text": "Installing modules",
+    "domain": "programming"
+  },
+  {
+    "text": "MongoDB Failing to Start - ***aborting after fassert() failure",
+    "domain": "programming"
+  },
+  {
+    "text": "Rails 4 - JS for dependent fields with simple form",
+    "domain": "programming"
+  },
+  {
+    "text": "for-loop and getchar() in C++",
+    "domain": "programming"
+  },
+  {
+    "text": "How to unit test express Router routes",
+    "domain": "programming"
+  },
+  {
+    "text": "Date and time in 24 hours format",
+    "domain": "programming"
+  },
+  {
+    "text": "return statement no result in java",
+    "domain": "programming"
+  },
+  {
+    "text": "Change column names of data.frame based on column number and text",
+    "domain": "programming"
+  },
+  {
+    "text": "What is an Activity in Android?",
+    "domain": "programming"
+  },
+  {
+    "text": "Palindrom function using prolog",
+    "domain": "programming"
+  },
+  {
+    "text": "how to do a smoth scoll down a page with javascript",
+    "domain": "programming"
+  },
+  {
+    "text": "Different audio by language",
+    "domain": "programming"
+  },
+  {
+    "text": "batch if, for, do sentences",
+    "domain": "programming"
+  },
+  {
+    "text": "ESLint's \"no-undef\" rule is calling my use of Underscore an undefined variable",
+    "domain": "programming"
+  },
+  {
+    "text": "Broadcast a dictionary to rdd in PySpark",
+    "domain": "programming"
+  },
+  {
+    "text": "My program cant run accountType as a variable",
+    "domain": "programming"
+  },
+  {
+    "text": "Sql Server Sorting Date With Hours/Mins",
+    "domain": "programming"
+  },
+  {
+    "text": "No img-responsive in Bootstrap 4",
+    "domain": "programming"
+  },
+  {
+    "text": "Use Perl to only print if value of column A is present for each value in Column B",
+    "domain": "programming"
+  },
+  {
+    "text": "How to write 2 byte arrays to a file c#?",
+    "domain": "programming"
+  },
+  {
+    "text": "How do you update a django template context variable after an AJAX call?",
+    "domain": "programming"
+  },
+  {
+    "text": "Which ad network do these guys use?",
+    "domain": "programming"
+  },
+  {
+    "text": "MongoDB: Bulk insert (Bulk.insert) vs insert multiple (insert([...]))",
+    "domain": "programming"
+  },
+  {
+    "text": "SQL Duplicated resault messages",
+    "domain": "programming"
+  },
+  {
+    "text": "Getting proportions from data sets in R",
+    "domain": "programming"
+  },
+  {
+    "text": "Get a yarn configuration from commandline",
+    "domain": "programming"
+  },
+  {
+    "text": "notifyDataSetChanged() NullPointerException",
+    "domain": "programming"
+  },
+  {
+    "text": "Create php form to allow create new XMPP accounts",
+    "domain": "programming"
+  },
+  {
+    "text": "Python Reindex Producing Nan",
+    "domain": "programming"
+  },
+  {
+    "text": "How to write this from javascript to JQuery",
+    "domain": "programming"
+  },
+  {
+    "text": "Error: stat_count() in ggplot2",
+    "domain": "programming"
+  },
+  {
+    "text": "How to Use LoginGdi+ theme",
+    "domain": "programming"
+  },
+  {
+    "text": "sass classes for colorizing in html",
+    "domain": "programming"
+  },
+  {
+    "text": "generate random no. but at 1st position character 2nd&3rd number and 4thcharacter at last confirm the generated no.",
+    "domain": "programming"
+  },
+  {
+    "text": "Javascript working on local, not working online",
+    "domain": "programming"
+  },
+  {
+    "text": "C++ sort() function for sorting strings",
+    "domain": "programming"
+  },
+  {
+    "text": "Export more than one variable in ES6?",
+    "domain": "programming"
+  },
+  {
+    "text": "Does Rust have Collection traits?",
+    "domain": "programming"
+  },
+  {
+    "text": "Make absolute paths relative to the project root in Webpack",
+    "domain": "programming"
+  },
+  {
+    "text": "C# \"content acceptance",
+    "domain": "programming"
+  },
+  {
+    "text": "what does the ! mean in Angular? i.e $scope.selected = !$scope.selected;",
+    "domain": "programming"
+  },
+  {
+    "text": "Work Around For Whitespaces",
+    "domain": "programming"
+  },
+  {
+    "text": "Format date with \"/\" to \"-\" with javascript",
+    "domain": "programming"
+  },
+  {
+    "text": "best online tutorials for J2EE and J2ME",
+    "domain": "programming"
+  },
+  {
+    "text": "Could not find or load main class java hello world",
+    "domain": "programming"
+  },
+  {
+    "text": "Is it possible to shuffle or randomly select entire rows of an array in Python?",
+    "domain": "programming"
+  },
+  {
+    "text": "Get process memory on Windows",
+    "domain": "programming"
+  },
+  {
+    "text": "Format java.sql.Timestamp into a String",
+    "domain": "programming"
+  },
+  {
+    "text": "SaaS app with angularjs and nodejs, how do i organize different clients?",
+    "domain": "programming"
+  },
+  {
+    "text": "the adapter does work?",
+    "domain": "programming"
+  },
+  {
+    "text": "Translate my website content",
+    "domain": "programming"
+  },
+  {
+    "text": "Use rle to group by runs when using dplyr",
+    "domain": "programming"
+  },
+  {
+    "text": "Comparing the characters",
+    "domain": "programming"
+  },
+  {
+    "text": "What are width and height parameters for in java.awt.Component.getBaseline(int, int)?",
+    "domain": "programming"
+  },
+  {
+    "text": "Is possible to modify arcanist/differential template?",
+    "domain": "programming"
+  },
+  {
+    "text": "Creating a stopwatch with redux",
+    "domain": "programming"
+  },
+  {
+    "text": "Im Getting an Error:Illegal Expression",
+    "domain": "programming"
+  },
+  {
+    "text": "Save me from writing 500 lines of if/else statements in PHP?",
+    "domain": "programming"
+  },
+  {
+    "text": "Is there a way to get an email when your HTML5 site goes down like Wordpress?",
+    "domain": "programming"
+  },
+  {
+    "text": "Where is this image being generated on my webpage?",
+    "domain": "programming"
+  },
+  {
+    "text": "Are there any examples of serious websites using riot.js?",
+    "domain": "programming"
+  },
+  {
+    "text": "Testing progress bar on Android with Espresso",
+    "domain": "programming"
+  },
+  {
+    "text": "Perl: select elements of array using array of integers",
+    "domain": "programming"
+  },
+  {
+    "text": "Dynamic Div objects in web app?",
+    "domain": "programming"
+  },
+  {
+    "text": "Customize Radio and Checkbox with CSS",
+    "domain": "programming"
+  },
+  {
+    "text": "android: data binding error: cannot find symbol class",
+    "domain": "programming"
+  },
+  {
+    "text": "RSpec: Is there a not for `and change`, e.g. `and_not to change`?",
+    "domain": "programming"
+  },
+  {
+    "text": "Spy on setTimeout and clearTimeout in Karma and Jasmine",
+    "domain": "programming"
+  },
+  {
+    "text": "Benefits of ES6 Reflect API",
+    "domain": "programming"
+  },
+  {
+    "text": "Pro/contra of using \"else\" if the then-clause exits the method anyways",
+    "domain": "programming"
+  },
+  {
+    "text": "Android @Intdef for flags how to use it",
+    "domain": "programming"
+  },
+  {
+    "text": "a simple while loop does not read all matches. Reads only the first match and ignores the others",
+    "domain": "programming"
+  },
+  {
+    "text": "Saving prediction results to CSV",
+    "domain": "programming"
+  },
+  {
+    "text": "Where should the android service calls and calls to GoogleAPIClient be written while using MVP pattern in android?",
+    "domain": "programming"
+  },
+  {
+    "text": "Polymer - Animating a DIV",
+    "domain": "programming"
+  },
+  {
+    "text": "Writing audio to server over TCP socket",
+    "domain": "programming"
+  },
+  {
+    "text": "Unable to open cqlsh Apache cassandra - ImportError: No module named cqlshlib",
+    "domain": "programming"
+  },
+  {
+    "text": "Add sequence number to fasta headers",
+    "domain": "programming"
+  },
+  {
+    "text": "c# adding a string to an array",
+    "domain": "programming"
+  },
+  {
+    "text": "Import .data file in Python",
+    "domain": "programming"
+  },
+  {
+    "text": "Why wont my Excel functions execute?",
+    "domain": "programming"
+  },
+  {
+    "text": "adding delete button to a div",
+    "domain": "programming"
+  },
+  {
+    "text": "How to make part of a string italics in java?",
+    "domain": "programming"
+  },
+  {
+    "text": "Unit Testing Strategy, Ideal Code Coverage Baseline",
+    "domain": "programming"
+  },
+  {
+    "text": "Can I throw from class init() in Swift with constant string loaded from file?",
+    "domain": "programming"
+  },
+  {
+    "text": "Which is the most difficult to reverse the order of the sort (largest to smallest) from Insertions sort selection sort or merge sort?",
+    "domain": "programming"
+  },
+  {
+    "text": "EF7: The term 'add-migration' is not recognized as the name of a cmdlet",
+    "domain": "programming"
+  },
+  {
+    "text": "Simplest way to validate string (Java)",
+    "domain": "programming"
+  },
+  {
+    "text": "Why Does code.runnable.com Allow Me to Change a Variable's Value in Java?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to display a button when there is no network and make it disappear when connection is available in Android App Development?",
+    "domain": "programming"
+  },
+  {
+    "text": "JVM versus C++ compiler",
+    "domain": "programming"
+  },
+  {
+    "text": "how can i copy an array from a class and double the size of the new array?",
+    "domain": "programming"
+  },
+  {
+    "text": "C - double result returning the value of 0",
+    "domain": "programming"
+  },
+  {
+    "text": "Final variable in java",
+    "domain": "programming"
+  },
+  {
+    "text": "Convert CURRENT_TIMESTAMP to only Y-m-d",
+    "domain": "programming"
+  },
+  {
+    "text": "Why does the site add code to my index at run-time",
+    "domain": "programming"
+  },
+  {
+    "text": "forum posts have inappropriate, invisible line breaks",
+    "domain": "programming"
+  },
+  {
+    "text": "Implicitly lazy static members in Swift",
+    "domain": "programming"
+  },
+  {
+    "text": "Disable logging for one container in Docker-Compose",
+    "domain": "programming"
+  },
+  {
+    "text": "pytest run only the changed file?",
+    "domain": "programming"
+  },
+  {
+    "text": "jQuery add html content in hidden div",
+    "domain": "programming"
+  },
+  {
+    "text": "Can't enable phar writing",
+    "domain": "programming"
+  },
+  {
+    "text": "Why does my Android string display in all caps in my app?",
+    "domain": "programming"
+  },
+  {
+    "text": "Routing between 2 LAN",
+    "domain": "programming"
+  },
+  {
+    "text": "Shorting the columns of data frame under a specific group",
+    "domain": "programming"
+  },
+  {
+    "text": "error: incompatible types: void cannot be converted to double",
+    "domain": "programming"
+  },
+  {
+    "text": "Understanding Stacks and Queues in python",
+    "domain": "programming"
+  },
+  {
+    "text": "Infinite loop in C, codeblock",
+    "domain": "programming"
+  },
+  {
+    "text": "Increase width of entire HTML Rmarkdown output",
+    "domain": "programming"
+  },
+  {
+    "text": "How to delete compiled JS files from previous typescript(.ts) files?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is software testing?",
+    "domain": "programming"
+  },
+  {
+    "text": "Converting 13 decimals to datetime C++",
+    "domain": "programming"
+  },
+  {
+    "text": "Redirecting command output in docker",
+    "domain": "programming"
+  },
+  {
+    "text": "whick keyword can be used to replace \"FROM\" in sql?",
+    "domain": "programming"
+  },
+  {
+    "text": "PowerShell guidelines for -Confirm, -Force, and -WhatIf",
+    "domain": "programming"
+  },
+  {
+    "text": "Is it allowed to place ... as class name java?",
+    "domain": "programming"
+  },
+  {
+    "text": "subset dataframe with sqldf",
+    "domain": "programming"
+  },
+  {
+    "text": "text-align: -webkit-center vs text-align: center",
+    "domain": "programming"
+  },
+  {
+    "text": "In Flask, What is request.args and how is it used?",
+    "domain": "programming"
+  },
+  {
+    "text": "While submit job with pyspark, how to access static files upload with --files argument?",
+    "domain": "programming"
+  },
+  {
+    "text": "Empty atom in Ecto changeset",
+    "domain": "programming"
+  },
+  {
+    "text": "Very poor performance of async task run on threadpool in .Net native",
+    "domain": "programming"
+  },
+  {
+    "text": "My code isn't working,What have i done wrong?",
+    "domain": "programming"
+  },
+  {
+    "text": "difference between \"->\" and \".\" operator in C language (struct)",
+    "domain": "programming"
+  },
+  {
+    "text": "Webpack external not cacheable",
+    "domain": "programming"
+  },
+  {
+    "text": "How to handle Web Workers \"standard\" syntax with webpack?",
+    "domain": "programming"
+  },
+  {
+    "text": "ASP.NET 5 / MVC 6 On-Premises Active Directory",
+    "domain": "programming"
+  },
+  {
+    "text": "C++ Builder: Convert binary code to AnsiString",
+    "domain": "programming"
+  },
+  {
+    "text": "Fail during installation of Pillow (Python module) in Linux",
+    "domain": "programming"
+  },
+  {
+    "text": "Why am I getting \"cannot convert from Dequeu to int\" error?",
+    "domain": "programming"
+  },
+  {
+    "text": "SQLite: Geeting value 0 from a select when insert works correct",
+    "domain": "programming"
+  },
+  {
+    "text": "can any one clarify \"S_NO\" NUMBER(12,0) NOT NULL ENABLE PRIMARY KEY\" what it means S_NO\" NUMBER(12,0)",
+    "domain": "programming"
+  },
+  {
+    "text": "Visual Studio hangs when creating Azure App Service",
+    "domain": "programming"
+  },
+  {
+    "text": "What is the comment syntax in Yesod (hamlet) templates?",
+    "domain": "programming"
+  },
+  {
+    "text": "Getting absolute value from binary int using bitwise",
+    "domain": "programming"
+  },
+  {
+    "text": "How to generate offline Swagger API docs?",
+    "domain": "programming"
+  },
+  {
+    "text": "I need help creating a for loop for document.querySelectorAll",
+    "domain": "programming"
+  },
+  {
+    "text": "Nested Touchable with absolute position",
+    "domain": "programming"
+  },
+  {
+    "text": "JAVA: adding and removing elements from a defined variable within a class",
+    "domain": "programming"
+  },
+  {
+    "text": "Bad Request - Invalid Hostname ASP.net Visual Studio 2015",
+    "domain": "programming"
+  },
+  {
+    "text": "How do I enable the Ruby 2.3 `--enable-frozen-string-literal` globally in Rails?",
+    "domain": "programming"
+  },
+  {
+    "text": "Android Studio: Load a File into an Array",
+    "domain": "programming"
+  },
+  {
+    "text": "How can I change the format of this input?",
+    "domain": "programming"
+  },
+  {
+    "text": "onFocus bubble in React",
+    "domain": "programming"
+  },
+  {
+    "text": "Is it possible to append another value to existing variable in sass / scss?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to send post parameters dynamically (or in loop) in OKHTTP 3.x in android?",
+    "domain": "programming"
+  },
+  {
+    "text": "npm with node-sass and autoprefixer",
+    "domain": "programming"
+  },
+  {
+    "text": "How this program is being evaluated?",
+    "domain": "programming"
+  },
+  {
+    "text": "Java BigInteger OR function",
+    "domain": "programming"
+  },
+  {
+    "text": "ESLint says array never modified even though elements are pushed into array",
+    "domain": "programming"
+  },
+  {
+    "text": "Will the following code removes a relationship by setting the foreign key to 0?",
+    "domain": "programming"
+  },
+  {
+    "text": "Is there an actual 8-bit integer data type in C++",
+    "domain": "programming"
+  },
+  {
+    "text": "Change Background color of MenuItem on MouseOver",
+    "domain": "programming"
+  },
+  {
+    "text": "How to call SOAP web services from AngularJS",
+    "domain": "programming"
+  },
+  {
+    "text": "Should subscribeOn and observeOn only be invoked by the final subscriber?",
+    "domain": "programming"
+  },
+  {
+    "text": "def amount_of_Chests () :",
+    "domain": "programming"
+  },
+  {
+    "text": "Node.js http: Parse \"index of\"",
+    "domain": "programming"
+  },
+  {
+    "text": "Python JSON dummy data generation from JSON schema",
+    "domain": "programming"
+  },
+  {
+    "text": "How to I comment a line in /etc/sudoers file using Chef Recipe?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to find percentage value from a table column",
+    "domain": "programming"
+  },
+  {
+    "text": "What are lambda functions?",
+    "domain": "programming"
+  },
+  {
+    "text": "how to change query to entity frame",
+    "domain": "programming"
+  },
+  {
+    "text": "Something Wrong with QuickSort algorithm",
+    "domain": "programming"
+  },
+  {
+    "text": "Android Studio Import Failing",
+    "domain": "programming"
+  },
+  {
+    "text": "How to make Xcode automatically conform to a protocol",
+    "domain": "programming"
+  },
+  {
+    "text": "Django: change the value of a field for all objects in a queryset",
+    "domain": "programming"
+  },
+  {
+    "text": "Fluentd vs Kafka",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a constructor?",
+    "domain": "programming"
+  },
+  {
+    "text": "Defined a method in Ruby and am trying to return a string that incorporates what the method is calculating",
+    "domain": "programming"
+  },
+  {
+    "text": "JSON formatted logging with Flask and gunicorn",
+    "domain": "programming"
+  },
+  {
+    "text": "How to install jenkins plugins from command line?",
+    "domain": "programming"
+  },
+  {
+    "text": "Android Image upload/download with Base64 into JSON causes Out of memory error",
+    "domain": "programming"
+  },
+  {
+    "text": "How to install psycopg2 with pg_config error?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to implement process of getting updates from a server?",
+    "domain": "programming"
+  },
+  {
+    "text": "Django render_to_string() ignores {% csrf_token %}",
+    "domain": "programming"
+  },
+  {
+    "text": "Change default test class name suffix in Intellij IDEA",
+    "domain": "programming"
+  },
+  {
+    "text": "Laravel environment variables leaking between applications when they call each other through GuzzleHttp",
+    "domain": "programming"
+  },
+  {
+    "text": "Image processing in Android/Java",
+    "domain": "programming"
+  },
+  {
+    "text": "Why is the finally statement needed if there is no catch block? (Java)",
+    "domain": "programming"
+  },
+  {
+    "text": "convert D/M/YYYY to YYYY/MM/DD (ex : 1/6/2015 --> 2015/06/01 not 2015/6/1)",
+    "domain": "programming"
+  },
+  {
+    "text": "How do I run webpack from SBT",
+    "domain": "programming"
+  },
+  {
+    "text": "How to create a boolean function that returns true if 's' is immediately followed by the letter 't' in a string",
+    "domain": "programming"
+  },
+  {
+    "text": "Can I bundle the Visual Studio 2015 C++ Redistributable DLL's with my application?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to convert strings to DateTime C#",
+    "domain": "programming"
+  },
+  {
+    "text": "How did a vector became a matrix?",
+    "domain": "programming"
+  },
+  {
+    "text": "What is polymorphism?",
+    "domain": "programming"
+  },
+  {
+    "text": "Cake PHP show Internal Server Error 500",
+    "domain": "programming"
+  },
+  {
+    "text": "bootstrap grid col overflowing",
+    "domain": "programming"
+  },
+  {
+    "text": "How to write text file in a specific path in android device",
+    "domain": "programming"
+  },
+  {
+    "text": "What to do next?",
+    "domain": "programming"
+  },
+  {
+    "text": "liste chain\u00e9es C",
+    "domain": "programming"
+  },
+  {
+    "text": "I get an error when I'm trying to use Firefox In Debian Vagrant",
+    "domain": "programming"
+  },
+  {
+    "text": "Can anyone see a mistake in this code?",
+    "domain": "programming"
+  },
+  {
+    "text": "How does memory management work?",
+    "domain": "programming"
+  },
+  {
+    "text": "Site is not loading .htaccess rewrite rule error. How to fix this ?",
+    "domain": "programming"
+  },
+  {
+    "text": "Why does the reverse() function in the Swift standard library return ReverseRandomAccessCollection?",
+    "domain": "programming"
+  },
+  {
+    "text": "Java ArrayList of Strings Throwing ArrayIndexOutOfBoundException",
+    "domain": "programming"
+  },
+  {
+    "text": "How to generate random number that must contains predefined characters?",
+    "domain": "programming"
+  },
+  {
+    "text": "Cross Domain Image upload Angular+laravel",
+    "domain": "programming"
+  },
+  {
+    "text": "Gitlab docker executor - cache image after before_script",
+    "domain": "programming"
+  },
+  {
+    "text": "Setting GOOGLE_APPLICATION_CREDENTIALS for BigQuery Python CLI",
+    "domain": "programming"
+  },
+  {
+    "text": "How do I rename a Google Cloud Platform project?",
+    "domain": "programming"
+  },
+  {
+    "text": "how to Detect if Keyboard is shown in Xcode UI test",
+    "domain": "programming"
+  },
+  {
+    "text": "how to avoid java.util.zip.ZipException in android studio at build time",
+    "domain": "programming"
+  },
+  {
+    "text": "My comand prompt exits right after I test my code",
+    "domain": "programming"
+  },
+  {
+    "text": "C scanf ignored when invalid input",
+    "domain": "programming"
+  },
+  {
+    "text": "Andrioid request to Server",
+    "domain": "programming"
+  },
+  {
+    "text": "is there a command such as \"sed\" in bash scripts in c++?",
+    "domain": "programming"
+  },
+  {
+    "text": "A solution to SQLAlchemy temporary table pain?",
+    "domain": "programming"
+  },
+  {
+    "text": "Checking if a type is a map",
+    "domain": "programming"
+  },
+  {
+    "text": "how to fix an error on a simulation?",
+    "domain": "programming"
+  },
+  {
+    "text": "Will it cause any issue if I use multiple Facebook Pixel in one page?",
+    "domain": "programming"
+  },
+  {
+    "text": "Update columns through SQL Query",
+    "domain": "programming"
+  },
+  {
+    "text": "javascript: loop add number",
+    "domain": "programming"
+  },
+  {
+    "text": "Building one web project breaks the compiled version of the second in solution",
+    "domain": "programming"
+  },
+  {
+    "text": "Javascript Redux - how to get an element from store by id",
+    "domain": "programming"
+  },
+  {
+    "text": "Calling methods on a List object of type Class",
+    "domain": "programming"
+  },
+  {
+    "text": "does python has a way to implement C#-like indexers?",
+    "domain": "programming"
+  },
+  {
+    "text": "Dynamic Programming - Minimum number of coins in C",
+    "domain": "programming"
+  },
+  {
+    "text": "How to use migration programmatically in EntityFramework Codefirst?",
+    "domain": "programming"
+  },
+  {
+    "text": "Copy complete virtualenv to another pc",
+    "domain": "programming"
+  },
+  {
+    "text": "How can I keep a docker debian container open?",
+    "domain": "programming"
+  },
+  {
+    "text": "lodash for \"select by object path\"?",
+    "domain": "programming"
+  },
+  {
+    "text": "What do with Async in node js",
+    "domain": "programming"
+  },
+  {
+    "text": "Why do we need exclude in pom",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain binary search algorithm",
+    "domain": "programming"
+  },
+  {
+    "text": "Getting parent of AST node in Python",
+    "domain": "programming"
+  },
+  {
+    "text": "Remove underscore from a string in R",
+    "domain": "programming"
+  },
+  {
+    "text": "instead of passing whole array to intent pass only onClicked value",
+    "domain": "programming"
+  },
+  {
+    "text": "How do I use transaction with oracle SQL?",
+    "domain": "programming"
+  },
+  {
+    "text": "the \\b flag not working in javascript regrex",
+    "domain": "programming"
+  },
+  {
+    "text": "Precision issues with dlmwrite / dlmread",
+    "domain": "programming"
+  },
+  {
+    "text": "It's possible ignore child dependency in Composer config?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to make app alway running in background , so user alway get notif even the app is close?",
+    "domain": "programming"
+  },
+  {
+    "text": "Maximum number of thread Android",
+    "domain": "programming"
+  },
+  {
+    "text": "I want a div to show only when user clicks on a button",
+    "domain": "programming"
+  },
+  {
+    "text": "use conda environment in sublime text 3",
+    "domain": "programming"
+  },
+  {
+    "text": "WHy If condition block is getting executed ?",
+    "domain": "programming"
+  },
+  {
+    "text": "Spring beans are not injected in flyway java based migration",
+    "domain": "programming"
+  },
+  {
+    "text": "What is a tuple?",
+    "domain": "programming"
+  },
+  {
+    "text": "C# Split String - Split String into Array",
+    "domain": "programming"
+  },
+  {
+    "text": "ExtensionlessUrlHandler and \"Recursion too deep; the stack overflowed\"",
+    "domain": "programming"
+  },
+  {
+    "text": "Is there a way to integrate git with Jupyter and have a version control over the notebooks created?",
+    "domain": "programming"
+  },
+  {
+    "text": "How does this string formatting trick work?",
+    "domain": "programming"
+  },
+  {
+    "text": "Error: No toolchains found in the NDK toolchains folder for ABI with prefix: llvm",
+    "domain": "programming"
+  },
+  {
+    "text": "Chrome DevTools won't let me set breakpoints on certain lines",
+    "domain": "programming"
+  },
+  {
+    "text": "Realm Swift Models separate or not?",
+    "domain": "programming"
+  },
+  {
+    "text": "Notice \"Undifined Variable\"",
+    "domain": "programming"
+  },
+  {
+    "text": "How do I use Cognito with the generated Javascript SDK?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to put something on the screen?",
+    "domain": "programming"
+  },
+  {
+    "text": "Is there something similar to NEGATIVE_INFINITY in php?",
+    "domain": "programming"
+  },
+  {
+    "text": "Stadard \"veiw contact\" icon",
+    "domain": "programming"
+  },
+  {
+    "text": "Can anyone please help on this?I dont know why i am getting SQL Error: ORA-00001: unique constraint (RO_MARGE_TABLE_PK) violated",
+    "domain": "programming"
+  },
+  {
+    "text": "Getting \"No qmlscene installed.\" warning in \"QT CREATOR\" on \"Ubuntu\"",
+    "domain": "programming"
+  },
+  {
+    "text": "Angular 2 Errors and Typescript - how to debug?",
+    "domain": "programming"
+  },
+  {
+    "text": "Run remote php script from terminal",
+    "domain": "programming"
+  },
+  {
+    "text": "BETTER query and faster",
+    "domain": "programming"
+  },
+  {
+    "text": "after changing the date format it is not getting reflected in the table",
+    "domain": "programming"
+  },
+  {
+    "text": "Add metadata comment to Numpy ndarray",
+    "domain": "programming"
+  },
+  {
+    "text": "'ansible_date_time' is undefined",
+    "domain": "programming"
+  },
+  {
+    "text": "Find the list of Google Container Registry public images",
+    "domain": "programming"
+  },
+  {
+    "text": "Dynamic href tag React in JSX",
+    "domain": "programming"
+  },
+  {
+    "text": "Difference between word-wrap: break-word and word-break: break-word",
+    "domain": "programming"
+  },
+  {
+    "text": "Use different paths for public and private resources Jersey + Spring boot",
+    "domain": "programming"
+  },
+  {
+    "text": "How to check whether DbContext has transaction?",
+    "domain": "programming"
+  },
+  {
+    "text": "Get all data from JSON array",
+    "domain": "programming"
+  },
+  {
+    "text": "show alertdialog but cover the actionbar",
+    "domain": "programming"
+  },
+  {
+    "text": "Validate a email field with jquery",
+    "domain": "programming"
+  },
+  {
+    "text": "How do I output lists as a table in Jupyter notebook?",
+    "domain": "programming"
+  },
+  {
+    "text": "Initialize map with pair of std::arrays c++11",
+    "domain": "programming"
+  },
+  {
+    "text": "Vbscript email attachment",
+    "domain": "programming"
+  },
+  {
+    "text": "selenium with C# on IE",
+    "domain": "programming"
+  },
+  {
+    "text": "what is difference between < length() and <=length()-1?",
+    "domain": "programming"
+  },
+  {
+    "text": "Moment js convert milliseconds into date and time",
+    "domain": "programming"
+  },
+  {
+    "text": "Why do we use concrete clases in java?",
+    "domain": "programming"
+  },
+  {
+    "text": "Change button style on press in React Native",
+    "domain": "programming"
+  },
+  {
+    "text": "Trying to ping linux vm hosted on azure does not work",
+    "domain": "programming"
+  },
+  {
+    "text": "Can I delete an item using DynamoDB Mapper without loading it first?",
+    "domain": "programming"
+  },
+  {
+    "text": "when website is loaded, get news from txt file",
+    "domain": "programming"
+  },
+  {
+    "text": "format a string like a date",
+    "domain": "programming"
+  },
+  {
+    "text": "Terminating app due to uncaught exception 'NSInternalInconsistencyException', reason: 'unexpected start state'",
+    "domain": "programming"
+  },
+  {
+    "text": "How can I check if vector elements are in order?",
+    "domain": "programming"
+  },
+  {
+    "text": "ImageView in ListView briefly shows previous image on scroll with RecycleElement enabled",
+    "domain": "programming"
+  },
+  {
+    "text": "how to create mysql database backup file in windows",
+    "domain": "programming"
+  },
+  {
+    "text": "How do i implement the algorithm below",
+    "domain": "programming"
+  },
+  {
+    "text": "Can't update or install package: An item with the same key has already been added",
+    "domain": "programming"
+  },
+  {
+    "text": "Webpack not loading css",
+    "domain": "programming"
+  },
+  {
+    "text": "Child node \"2\" exited prematurely",
+    "domain": "programming"
+  },
+  {
+    "text": "how can i retreive a row(given as search) from postgresql and display the result in html page?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to prevent CMake from issuing /IMPLIB",
+    "domain": "programming"
+  },
+  {
+    "text": "whereNear query doesn't seem to work properly in Parse",
+    "domain": "programming"
+  },
+  {
+    "text": "pre tag text not coming in innerText",
+    "domain": "programming"
+  },
+  {
+    "text": "Possible to bring the app from background to foreground?",
+    "domain": "programming"
+  },
+  {
+    "text": "Camera Result always returns RESULT_CANCELED",
+    "domain": "programming"
+  },
+  {
+    "text": "I need to create an array with numbers given by the user",
+    "domain": "programming"
+  },
+  {
+    "text": "Is it possible to see a log or history of previous iTerm2 sessions?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to tie emitted events events into redux-saga?",
+    "domain": "programming"
+  },
+  {
+    "text": "Symfony 2 : Best practice",
+    "domain": "programming"
+  },
+  {
+    "text": "setCloseButtonIcon() method doesn't change default Close button",
+    "domain": "programming"
+  },
+  {
+    "text": "Warning: mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in line 2",
+    "domain": "programming"
+  },
+  {
+    "text": "MongoDB constantly high cpu usage",
+    "domain": "programming"
+  },
+  {
+    "text": "Vue.js : How to set a unique ID for each component instance?",
+    "domain": "programming"
+  },
+  {
+    "text": "1067: Implicit coercion of a value of type congrate to an unrelated type flash.display:DisplayObject",
+    "domain": "programming"
+  },
+  {
+    "text": "Eloquent get only one column as an array",
+    "domain": "programming"
+  },
+  {
+    "text": "Returning fun messages to different injections",
+    "domain": "programming"
+  },
+  {
+    "text": "Getting httpServletRequest attribute with MockMvc",
+    "domain": "programming"
+  },
+  {
+    "text": "how can i check how website storing password in database in laravel?",
+    "domain": "programming"
+  },
+  {
+    "text": "How to print data from database?",
+    "domain": "programming"
+  },
+  {
+    "text": "Why does -Xrs reduce performance",
+    "domain": "programming"
+  },
+  {
+    "text": "How to create a subfolders for each items when having a database",
+    "domain": "programming"
+  },
+  {
+    "text": "Docker and --userns-remap, how to manage volume permissions to share data between host and container?",
+    "domain": "programming"
+  },
+  {
+    "text": "codeigniter URL routes not working properly",
+    "domain": "programming"
+  },
+  {
+    "text": "Stopwatch and ReadKey doesn't work properly",
+    "domain": "programming"
+  },
+  {
+    "text": "How to do editText like password",
+    "domain": "programming"
+  },
+  {
+    "text": "Explain tree data structure",
+    "domain": "programming"
+  },
+  {
+    "text": "How to check if a commit has been merged to my current branch - somewhere in time?",
+    "domain": "programming"
+  },
+  {
+    "text": "Node.JS: Getting error : [nodemon] Internal watch failed: watch ENOSPC",
+    "domain": "programming"
+  },
+  {
+    "text": "Bukkit coding - Where will I put the if.senderHasPermission?",
+    "domain": "programming"
+  },
+  {
+    "text": "why datepicker is lost after window.print",
+    "domain": "programming"
+  },
+  {
+    "text": "Html email form do not send mail",
+    "domain": "programming"
+  },
+  {
+    "text": "Web service integration in Java",
+    "domain": "programming"
+  },
+  {
+    "text": "ASP.Net Core SAML authentication",
+    "domain": "programming"
+  },
+  {
+    "text": "c++ vector type function implemetation",
+    "domain": "programming"
+  },
+  {
+    "text": "Automating CSV file merging and cleaning preferably by using Batch or Powershell",
+    "domain": "programming"
+  },
+  {
+    "text": "How could I hide the minimap bar on sublimetext 3",
+    "domain": "programming"
+  },
+  {
+    "text": "how to use CMake file (GLOB SRCS *. ) with a build directory",
+    "domain": "programming"
+  },
+  {
+    "text": "Including HTML inside Jekyll tag",
+    "domain": "programming"
+  },
+  {
+    "text": "Why is my SQL PHP Code not working?",
+    "domain": "programming"
+  },
+  {
+    "text": "Django: AttributeError: 'NoneType' object has no attribute 'split'",
+    "domain": "programming"
+  },
+  {
+    "text": "How to perform Undo(remove last entered string) and Redo(add it back) Operations on Strings ? ( using Core Java data structures )",
+    "domain": "programming"
+  },
+  {
+    "text": "Debug console not showing values for Swift + Objective-C",
+    "domain": "programming"
+  },
+  {
+    "text": "call event function in another event function As3",
+    "domain": "programming"
+  },
+  {
+    "text": "Cannot resolve symbol 'RequestQueue'",
+    "domain": "programming"
+  },
+  {
+    "text": "i need to use the value of i outside of the loop",
+    "domain": "programming"
+  },
+  {
+    "text": "output of the functions based on nodes",
+    "domain": "programming"
+  },
+  {
+    "text": "How do I create an observable of an array from an array of observables?",
+    "domain": "programming"
+  },
+  {
+    "text": "GKMinmaxStrategist doesn't return any moves",
+    "domain": "programming"
+  },
+  {
+    "text": "Restore a mongo DB from a compose.io backup?",
+    "domain": "programming"
+  },
+  {
+    "text": "I want to edit this HTML design in ul li format but when I am converting its images are breakdown. I am newbie Please help me Thanks in advance",
+    "domain": "programming"
+  },
+  {
+    "text": "How to make a Round Toolbar for a Website",
+    "domain": "programming"
+  },
+  {
+    "text": "Where to set cookie in Isomorphic Redux Application?",
+    "domain": "programming"
+  },
+  {
+    "text": "Draft refuses handshake when using java-websocket library to connect to the coinbase exchange websocket stream",
+    "domain": "programming"
+  },
+  {
+    "text": "please help me i'm getting the following error.....so please its urgent",
+    "domain": "programming"
+  },
+  {
+    "text": "How optimise code in the scenario ??? instated of writing multiple else if conditions",
+    "domain": "programming"
+  },
+  {
+    "text": "Any Javascript Expert: Who can add multiple IDs in This Script to Check If CSS does not match redirect Page",
+    "domain": "programming"
+  },
+  {
+    "text": "Regex or any string method",
+    "domain": "programming"
+  },
+  {
+    "text": "library in C11 or C99 good practice",
+    "domain": "programming"
+  },
+  {
+    "text": "unable to pass the context to the another class in android",
+    "domain": "programming"
+  },
+  {
+    "text": "Pyreverse complaining even after having Graphviz",
+    "domain": "programming"
+  },
+  {
+    "text": "RecyclerView Q&A",
+    "domain": "programming"
+  },
+  {
+    "text": "detect non ascii characters in a string",
+    "domain": "programming"
+  },
+  {
+    "text": "Why is the const&& overload of as_const deleted?",
+    "domain": "programming"
+  },
+  {
+    "text": "create table sql in access",
+    "domain": "programming"
+  },
+  {
+    "text": "Manually adding aar with dependency pom/iml file",
+    "domain": "programming"
+  },
+  {
+    "text": "Cannot change visual studio code settings",
+    "domain": "programming"
+  },
+  {
+    "text": "Passing a component as an 'argument' to another component in Angular 2",
+    "domain": "programming"
+  },
+  {
+    "text": "Check Ansible version from inside of a playbook",
+    "domain": "programming"
+  },
+  {
+    "text": "How to create asossiative array in wrapping class",
+    "domain": "programming"
+  },
+  {
+    "text": "Where is _.pluck() in lodash version 4?",
+    "domain": "programming"
+  },
+  {
+    "text": "i set tabs but it dint navigate other tabs in angular",
+    "domain": "programming"
+  },
+  {
+    "text": "Accessing same-type inactive member in unions",
+    "domain": "programming"
+  },
+  {
+    "text": "Reversing a Sentence without reversing Characters in JavaScript and Java",
+    "domain": "programming"
+  },
+  {
+    "text": "Ignoring ensurepip failure: pip 7.1.2 requires SSL/TLS - Python 3.x & OS X",
+    "domain": "programming"
+  },
+  {
+    "text": "how to load bitmap directly with picasso library like following",
+    "domain": "programming"
+  },
+  {
+    "text": "What does .equals() not work",
+    "domain": "programming"
+  },
+  {
+    "text": "Scroll second child in AppBarLayout",
+    "domain": "programming"
+  },
+  {
+    "text": "How can I set the UIColor of a UIBezierPath in Swift?",
+    "domain": "programming"
+  },
+  {
+    "text": "Unnecessary code generating in HTML website",
+    "domain": "programming"
+  }
+]
